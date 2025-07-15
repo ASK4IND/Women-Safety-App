@@ -19,7 +19,7 @@ import 'package:flutter_application_3_mainproject/utils/constants.dart';
  WidgetsFlutterBinding.ensureInitialized();
  Platform.isAndroid ? await Firebase.initializeApp(
   options: const FirebaseOptions(
-  apiKey: 'AIzaSyD-oBgQskg5W_tuxXbpptMd7oX3gur_u6c',
+  apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
    appId: '1:91060988815:android:2eda8c806543b1fd74f9fa',
    messagingSenderId: '91060988815', 
    projectId: 'w-safe-fa12c',
